@@ -14,7 +14,7 @@ However, it is not a good security practice. In order to solve this issue, I des
 
 So, we could use GitLab in a secure way and Helm deployments could be done in a secure manner.  Besides that, we may use this solution as a security automation solution in the pipeline as well. 
 
-![GitLabAvatar](GiLabAvatar.jpg)
+![GitLabAvatar.jpg](GitLabAvatar.jpg)
 
 Beyond that, as a security vision from the DevSecOps perspective we plan to manage not only this kind of secret data but also all of our (Compnay) sensitive data [password, certificate, secret file, e.g., … ]  on an enterprise level security vault solution. For example: Lastpass, HashiCorp Vault, CyberArk etc. In this way, a secure data can be accessed in authorized way when required without any blocker or losing time. (Sometimes even it is required to reproduce it, due to the not to reach the certificate etc.)
 In addition to that, we intend to implement Change Management Procedure to handle enterprise level sensitive data management to add value to whole Company development and deployment processes. 
