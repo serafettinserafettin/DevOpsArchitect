@@ -10,7 +10,7 @@ However, it is not a good security practice. In order to solve this issue, I des
 •	Helm values file with hidden_values
 •	Security script to use corresponding real key-values in a specific session
 
-![HiddenFile](HiddenFile.png)
+![HidenFile](HidenFile.png)
 
 So, we could use GitLab in a secure way and Helm deployments could be done in a secure manner.  Besides that, we may use this solution as a security automation solution in the pipeline as well. 
 
