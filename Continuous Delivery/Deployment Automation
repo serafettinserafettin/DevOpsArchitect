@@ -1,5 +1,8 @@
 It is a milestone for our Continuous Delivery/Deployment Automation process.
 
+
+![HidenFile](env-test-prod.bmp)
+
 Today, we started to use deployment automation pipelines for our IBB Singlenode and Prod Helm chart release deployments.(mpower, mpay, mbattery, etc...)
 It is a milestone for our Continuous Delivery/Deployment Automation process.
 We are utilizing the advantages of the approaches such as:
@@ -9,13 +12,14 @@ We are utilizing the advantages of the approaches such as:
 - Robust collaborative working opportunity with the files on the Repo
 - Central orchestration
 
-
-
 In this way we have faster, more reliable,repatable and straightforward deployment processes.
 As of now, we do not have to use we a static location. So, we can deploy the releases without location dependency
 Beyond that, we can reduce deployment risks, and time.
 We can get the trace of whole process steps historically.
 
+
+
+![HidenFile](env-test-prod.bmp)
 
 In this way we have faster, more reliable,repatable and straightforward deployment processes.
 As of now, we do not have to use we a static location. So, we can deploy the releases without location dependency
