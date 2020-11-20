@@ -1,7 +1,7 @@
 It is a milestone for our Continuous Delivery/Deployment Automation process.
 
 
-![HidenFile](env-test-prod.bmp)
+![HidenFile](Continuous%20Delivery/env-test-prod.bmp)
 
 Today, we started to use deployment automation pipelines for our IBB Singlenode and Prod Helm chart release deployments.(mpower, mpay, mbattery, etc...)
 It is a milestone for our Continuous Delivery/Deployment Automation process.
